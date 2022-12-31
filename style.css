@@ -364,7 +364,7 @@ section .titre::after{
 
 /*core teams */
 .core-teams .titre::after{
-    content:"Avec qui suis-je";
+    content:"Team";
 }
 .core-teams .carousel .card{
     background:#222;
