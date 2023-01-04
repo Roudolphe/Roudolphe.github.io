@@ -27,7 +27,7 @@ $(document).ready(function(){
 
     //saisie animation
     var typed = new Typed(".typing", {
-        strings: ["Blockchain Developper", "Web Developper", "Designer", "Freelancer"],
+        strings: ["Blockchain Developper", "Web Developper", "Web Designer", "Consultant Blockchain", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop:true
