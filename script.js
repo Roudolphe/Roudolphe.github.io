@@ -33,7 +33,7 @@ $(document).ready(function(){
         loop:true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Blockchain Developper", "Web Developper", "Designer", "Freelancer"],
+        strings: ["Blockchain Developper", "Web Developper", "Web Designer","Consultant Blockchain", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop:true
